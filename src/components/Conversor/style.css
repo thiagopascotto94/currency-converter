@@ -1,0 +1,25 @@
+.typography{
+    padding-bottom: 16px;
+}
+
+.card{
+    margin-top: 24px;
+}
+
+.backdrop{
+    z-index: 999999;
+    color: white;
+}
+
+.TableContainer{
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.delete{
+    color: red;
+}
+
+.teste{
+    color: #FFF !important;
+}
